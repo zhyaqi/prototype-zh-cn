@@ -1,0 +1,4 @@
+interface:
+  display_name: "虐杀原形 / PROTOTYPE 汉化"
+  short_description: "把 2009 年的 PROTOTYPE（虐杀原形）装成简体中文汉化版"
+  default_prompt: "用 $prototype-zh-cn 把本机安装的《虐杀原形》汉化成简体中文。"
