@@ -89,3 +89,9 @@ pwsh -File scripts/install-prototype-zh.ps1 -PatchRoot 'D:\PrototypePatch\Protot
 本仓库**不包含**游戏本体，也**不包含**任何汉化文件或补丁内容，只提供安装说明与自动化脚本。
 
 汉化文件版权归《Prototype® 新版 100% 汉化重译》制作组所有，仅供学习交流，禁止商用。请支持正版。
+
+## 许可证
+
+本仓库的说明文档与脚本以 [MIT License](LICENSE) 发布。
+
+**注意**：MIT 只覆盖本仓库自己的内容，**不覆盖**任何游戏文件或汉化补丁——那些内容不在本仓库中，版权归各自作者所有。
